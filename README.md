@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Shaurya Gupta  
 
-<!--
-**shauryaashu07/shauryaashu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE Student  
+💻 Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **JavaScript & MERN Stack**
+- 🎨 Strong in **HTML & CSS**
+- 🧠 Improving **DSA** for placements
+- 🔥 Love building real-world web projects
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend:** Responsive UI, DOM Manipulation  
+- **Backend:** MERN Stack (Learning)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🔐 **Password Generator**  
+  👉 Live Demo: https://shauryaashu07.github.io/password-generator/  
+- 📝 **To-Do List App** (JavaScript)  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: shauryagupta@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/shauryagupta07  
+- 💻 GitHub: https://github.com/shauryaashu07  
+
+---
+
+⭐ *Building consistently. Learning daily. Growing step by step.* 🚀
