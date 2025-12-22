@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **JavaScript & MERN Stack**
-- 🎨 Strong in **HTML & CSS**
+- 🌱 Currently learning **MERN Stack**
+- 🎨 Strong in **HTML , CSS & JavaScript**
 - 🧠 Improving **DSA** for placements
 - 🔥 Love building real-world web projects
 
@@ -21,6 +21,12 @@
 
 ---
 
+## 💻 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/https://leetcode.com/u/shauryagupta7/
+- 🔗 GeeksforGeeks: https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shauryaguptta07/
+
+  ---
+  
 ## 📌 Projects
 - 🔐 **Password Generator**  
   👉 Live Demo: https://shauryaashu07.github.io/password-generator/  
@@ -29,7 +35,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: shauryagupta@gmail.com
+- 📧 Email: shauryagupta2017@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/shauryagupta07  
 - 💻 GitHub: https://github.com/shauryaashu07  
 
