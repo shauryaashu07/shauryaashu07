@@ -26,13 +26,6 @@
 - 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/shauryaguptta07
 
   ---
-  
-## 📌 Projects
-- 🔐 **Password Generator**  
-  👉 Live Demo: https://shauryaashu07.github.io/password-generator/  
-- 📝 **To-Do List App** (JavaScript)  
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: shauryagupta2017@gmail.com
