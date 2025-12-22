@@ -22,8 +22,8 @@
 ---
 
 ## 💻 Coding Profiles
-- 🔗 LeetCode: https://leetcode.com/https://leetcode.com/u/shauryagupta7/
-- 🔗 GeeksforGeeks: https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shauryaguptta07/
+- 🔗 LeetCode: https://leetcode.com/u/shauryagupta7
+- 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/shauryaguptta07
 
   ---
   
