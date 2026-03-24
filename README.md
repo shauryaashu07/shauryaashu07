@@ -22,7 +22,7 @@
 ---
 
 ## 💻 Coding Profiles
-- 🔗 LeetCode: https://leetcode.com/u/shauryagupta7
+- 🔗 LeetCode: https://leetcode.com/u/shauryagupta07
 - 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/shauryaguptta07
 
   ---
